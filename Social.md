@@ -1,6 +1,6 @@
 Nuk kam Rrjete sociale
 
-[Discord] (https://github.com/IsaaMorina)
+[GitHub](https://github.com/IsaaMorina)
 
 
 
